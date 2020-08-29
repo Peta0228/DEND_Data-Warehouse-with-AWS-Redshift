@@ -2,7 +2,7 @@
 
 <p>The purpose of this database is to provide foundations for analyzing user acitivies in Sparkify's new music streaming app, and hence the database is optimized for song play analysis.</p>
 
-<p>A dataware house is created in AWS Redhsift, and data are pipelined from AWS S3. Before the pipeline can be ran, data modeling was created and testified in Redshift.</p>
+<p>A data warehouse is created in AWS Redhsift, and data are pipelined from AWS S3. Before the pipeline can be ran, data modeling was created and testified in Redshift.</p>
 
 # Database schema design and ETL pipeline
 
